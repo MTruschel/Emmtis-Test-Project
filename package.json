@@ -1,0 +1,24 @@
+{
+  "name": "Emmtis-Test-Project",
+  "version": "1.0.0",
+  "description": "to get a good grasp of the GitHub-workflow",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTruschel/Emmtis-Test-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MTruschel/Emmtis-Test-Project/issues"
+  },
+  "homepage": "https://github.com/MTruschel/Emmtis-Test-Project#readme"
+}
